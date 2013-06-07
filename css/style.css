@@ -102,7 +102,7 @@ body {
   font-size: 1em;
   line-height: 1.5;
   background-color: #CCC;
-  background-image: url('../images/background-texture.png');
+  background-image: url('http://rundeck.org/images/graybg1.png');
   background-repeat: repeat;
 }
 
